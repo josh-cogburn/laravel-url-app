@@ -17,4 +17,8 @@ yarn-error.log
 Dockerfile
 docker-compose.yml
 docker-compose.yml.original
+docker-compose.yml.bak1
+docker-compose.yml.bak2
 config.sh
+docker.env
+docker_build.sh
